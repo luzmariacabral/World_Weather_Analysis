@@ -1,1 +1,3 @@
-# World_Weather_Analysis
+# World_Weather_Analysis: Come fly with me...
+
+This week's module allowed us to explore the web a little further and the abundance of data it has to offer. Throughout the week we were picking out random infomration from the web, cleaning it up and presented it in different formats. Most of the work was with maps, weather maps and gmaps. My favorite part of the challenge was drawing out the itinerary, mainly because I have wishes to complete the Compostela trail in norther Spain. A real itinerary with stops can be planned. For the Challenge I chose 4 close towns in Brazil, they're close to large cities like Rio de Janeiro and Belo Horizonte. The tour is to be completed by bicycle and the hot tropical weather these towns had to be close. Let the adventure begin!
